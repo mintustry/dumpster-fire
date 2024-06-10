@@ -1,0 +1,9 @@
+type: "Wall"
+name: "Place holder"
+description: "place holder"
+size: 2
+health: 1
+requirements: [
+	copper/
+]
+category: "crafting"

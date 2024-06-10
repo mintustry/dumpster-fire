@@ -1,15 +1,9 @@
 type: Wall
-name: place holder
- # holy moly
-description:
-	'''
-	line 1
-	line 2
-	
-	'''
+name: Place holder
+description: "place holder"
 size: 2
 health: 1
 requirements: [
 	copper/
 ]
-category: defense
+category: crafting

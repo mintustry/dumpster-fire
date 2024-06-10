@@ -1,0 +1,15 @@
+type: Wall
+name: place holder
+ # holy moly
+description:
+	'''
+	line 1
+	line 2
+	
+	'''
+size: 2
+health: 1
+requirements: [
+	copper/
+]
+category: defense

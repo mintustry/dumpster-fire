@@ -3,4 +3,4 @@ displayName: "Dumpster Fire" //preference
 description: "uhm, me actually learning stuff for once"
 author: "Rhodium"
 version: "1"
-minGameVersion: "130"
+minGameVersion: "140"
